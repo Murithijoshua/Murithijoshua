@@ -12,12 +12,14 @@
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murithijoshua&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Murithijoshua&show_icons=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murithijoshua&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Murithijoshua&layout=compact&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Murithijoshua)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Murithijoshua)   -->
 
-![GitHub metrics](https://metrics.lecoq.io/Murithijoshua)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/Murithijoshua)   -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@366f0ebe-90a8-41ad-8c26-e0319cf809af&layout=compact)](https://github.com/Murithijoshua/github-readme-stats)
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Murithijoshua)  
 
