@@ -18,7 +18,7 @@
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Murithijoshua)   -->
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/Murithijoshua)   -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@366f0ebe-90a8-41ad-8c26-e0319cf809af&layout=compact)](https://github.com/Murithijoshua/github-readme-stats)
+[![Joshua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Trikle&layout=compact)](https://github.com/Murithijoshua/github-readme-stats)
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Murithijoshua)  
