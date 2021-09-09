@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Machine learning  
 - 🌱 I’m currently learning AWS deep racer
 - 👯 I’m looking to collaborate on health related opensource projects 
-- 🤔 I’m looking for help with software design patterns  
+- 🤔 I’m looking for help with deep dive in software engineering
 
 
 
