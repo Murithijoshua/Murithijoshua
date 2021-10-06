@@ -15,12 +15,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murithijoshua&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Murithijoshua&layout=compact&show_icons=true&count_private=true)  
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Murithijoshua)   -->
 
-<!-- ![GitHub metrics](https://metrics.lecoq.io/Murithijoshua)   -->
 [![Joshua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Trikle&layout=compact)](https://github.com/Murithijoshua/github-readme-stats)
-
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Murithijoshua)  
-
-![Profile views](https://gpvc.arturio.dev/Murithijoshua)  
