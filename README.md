@@ -9,7 +9,7 @@
 <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
 <a href='https://stars.github.com/'>
 <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>  -->
-
+<!-- https://ene4x5uz92deml1.m.pipedream.net -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murithijoshua&layout=compact)
 <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Murithijoshua&layout=compact&show_icons=true&count_private=true)  
@@ -18,3 +18,4 @@
 [![Joshua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Trikle&layout=compact)](https://github.com/Murithijoshua/github-readme-stats)
 <br>
 [![wakatime](https://wakatime.com/badge/user/366f0ebe-90a8-41ad-8c26-e0319cf809af.svg)](https://wakatime.com/@366f0ebe-90a8-41ad-8c26-e0319cf809af)
+![counter](https://ene4x5uz92deml1.m.pipedream.net)
