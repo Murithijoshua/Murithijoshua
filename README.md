@@ -1,7 +1,7 @@
 ### Hi there 👋, 
-#### am Joshua Murithi
-##### Python Developer
-## this is what I do 👨‍💻
+#### My name is Joshua Murithi. I am a Python Developer.
+📍 Nairobi,🇰🇪.
+## This is what I do 👨‍💻
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Murithijoshua)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/murithijoshua)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/murithi-joshua-a82046103/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/myzaliusjoshua)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/10429527/joshua-johns)  
 </p>
