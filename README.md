@@ -1,5 +1,4 @@
-### Hi there 👋, 
-#### My name is Joshua Murithi. I am a Python Developer.
+### Hi there 👋,My name is Joshua Murithi. I am a Python Developer.
 📍 Nairobi,🇰🇪.
 ## This is what I do 👨‍💻
 
