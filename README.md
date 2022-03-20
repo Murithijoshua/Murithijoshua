@@ -25,4 +25,4 @@
 [![Joshua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Trikle&layout=compact)](https://github.com/Murithijoshua/github-readme-stats)
 <br>
 [![wakatime](https://wakatime.com/badge/user/366f0ebe-90a8-41ad-8c26-e0319cf809af.svg)](https://wakatime.com/@366f0ebe-90a8-41ad-8c26-e0319cf809af)
-![counter](https://ene4x5uz92deml1.m.pipedream.net)
+<!-- ![counter](https://ene4x5uz92deml1.m.pipedream.net) -->
