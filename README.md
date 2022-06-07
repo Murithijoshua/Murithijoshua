@@ -75,7 +75,7 @@
 
 #### stats
 
-<div>
+<div align="flex">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Murithijoshua&layout=compact">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murithijoshua&layout=compact">
   </a>
@@ -86,8 +86,5 @@
   </a>
   <a href="https://github-readme-stats.vercel.app/api/wakatime?username=@Trikle&layout=compact">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Trikle&layout=compact">
-  </a>
-  <a href="https://github.com/Murithijoshua/github-readme-stats">
-    <img src="https://github.com/Murithijoshua/github-readme-stats">
   </a>
   <div>
