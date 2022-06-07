@@ -77,14 +77,14 @@
 
 <div align="flex">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Murithijoshua&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murithijoshua&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murithijoshua&layout=compact" width="300">
   </a>
   <a
     href="https://github-readme-stats.vercel.app/api?username=Murithijoshua&layout=compact&show_icons=true&count_private=true">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=Murithijoshua&layout=compact&show_icons=true&count_private=true">
+      src="https://github-readme-stats.vercel.app/api?username=Murithijoshua&layout=compact&show_icons=true&count_private=true" width="300">
   </a>
   <a href="https://github-readme-stats.vercel.app/api/wakatime?username=@Trikle&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Trikle&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Trikle&layout=compact" width="300">
   </a>
   <div>
