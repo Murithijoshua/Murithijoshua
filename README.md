@@ -21,7 +21,10 @@
   <a href="https://stackoverflow.com/users/10429527/joshua-johns">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Murithijoshua&style=flat-square&color=blue" alt=""/>
 </div>
+
+
 <hr>
 
 ## <div id="header" align="center"> Welcome To my World
@@ -76,9 +79,6 @@
 #### stats
 
 <div align="flex">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Murithijoshua&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murithijoshua&layout=compact" width="300">
-  </a>
   <a
     href="https://github-readme-stats.vercel.app/api?username=Murithijoshua&layout=compact&show_icons=true&count_private=true">
     <img
@@ -87,4 +87,14 @@
   <a href="https://github-readme-stats.vercel.app/api/wakatime?username=@Trikle&layout=compact">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Trikle&layout=compact">
   </a>
+
+   <a 
+    href="https://github-readme-streak-stats.herokuapp.com/?user=Murithijoshua">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Murithijoshua">
+  </a>
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Murithijoshua&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murithijoshua&layout=compact" width="300">
+  </a>
+ 
   <div>
