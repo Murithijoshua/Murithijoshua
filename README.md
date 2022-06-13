@@ -31,11 +31,11 @@
 
    My name is Joshua Murithi. I am a Python | Javascript | Go-lang Software Developer.My interests tend to revolve in named Technologies i.e Machine learning, Data science, Web dev and Writing scripts that make our live easier and lazier😄
 
-   A nomad at heart,Ever learning and loves to try new technologies
+   A nomad at heart,Ever learning and loves to try new technologies. 
 </div>
 <hr>
 
-#### Languages & Tools I use
+#### Languages & Tools I use on Day to Day.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu"
