@@ -1,4 +1,4 @@
-# <div id="header" align="center">< Hello World /> 🌐
+# <div id="header" align="center">< Hello World /> 🌐.
 </div>
 
 <div id="header" align="center">
