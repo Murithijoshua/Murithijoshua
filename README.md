@@ -29,7 +29,7 @@
 
 ## <div id="header" align="center"> Welcome To my World
 
-   My name is Joshua Murithi. I am a Python | Javascript | Go-lang Software Developer.My interests tend to revolve in named Technologies i.e Machine learning, Data science, Web dev and Writing scripts that make our live easier and lazier😄
+   My name is Joshua Murithi. I am a Python | Javascript | Go-lang Software Developer.My interests tend to revolve in named Technologies i.e Machine learning, Data science, Web dev and Writing scripts that make our lives easier and lazier😄
 
    A nomad at heart,Ever learning and loves to try new technologies. 
 </div>
