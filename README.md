@@ -41,58 +41,55 @@ I’m a versatile software engineer with a strong foundation in **backend develo
 
 ## 🛠️ Tech Stack
 
-<div>
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+
+  <!-- DevOps / Tools -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" height="40"/>
-</div>
 
-### 💡 Languages & Frameworks
-<div>
+  <!-- Languages -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" height="40"/>
+
+  <!-- Frameworks -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="40"/>
-</div>
 
-### 🎨 Frontend & UI
-<div>
+  <!-- Frontend -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" height="40"/>
-</div>
 
-### 🗄️ Databases & Tools
-<div>
+  <!-- DB / Misc -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" height="40"/>
-</div>
 
+</div>
+<hr>
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Murithijoshua&show_icons=true&count_private=true" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Murithijoshua" height="160">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=murithijoshua&show_icons=true&theme=github_dark" height="160">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=murithijoshua&theme=github_dark" height="160">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=murithijoshua&layout=compact&theme=github_dark" height="140">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murithijoshua&layout=compact" height="140">
-</div>
 
 ---
 
 ## 📈 Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Trikle&layout=compact">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=Trikle&theme=radical">
 </div>
 
 ---
